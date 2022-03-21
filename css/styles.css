@@ -1,7 +1,9 @@
 .title{
     color: white;
+    font-family: Lato, sans-serif;
 }
  
  .title-box{
      background-color: grey;
+     padding: 10%;
  }
