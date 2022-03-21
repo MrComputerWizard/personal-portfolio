@@ -13,3 +13,8 @@ body{
      padding: 10%;
      margin: 0%;
  }
+
+ .projects{
+     width: 100%;
+     text-align: left;
+ }
