@@ -16,3 +16,35 @@ h1, p{
      background-color: grey;
      padding: 10%;
  }
+
+ header{
+     background-color: black;
+     color: white;
+     padding: 3%;
+     text-align: center;
+
+ }
+
+ a{
+     color: white;
+     font-size: 20px;
+     padding: 9%;
+     text-decoration: none; 
+ }
+
+ footer{
+     background: black;
+     color: white;
+     padding: 3%;
+ }
+
+.copyright{
+    text-align: left;
+    font-size: 100%;
+}
+
+.contacts{
+    text-align: left;
+    color: black;
+    font-size: 100%;
+}
