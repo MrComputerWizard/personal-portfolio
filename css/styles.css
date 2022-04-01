@@ -7,6 +7,23 @@ h1, p{
     text-align: center;
 }
 
+h5 {
+    font-size: 15px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+li {
+    font-size: 30px;
+    text-decoration: none; 
+}
+
+h3 {
+    font-size: 30px;
+}
+
 .title{
     font-family: "Lato", sans-serif;
     color: white;
@@ -18,18 +35,24 @@ h1, p{
  }
 
  header{
+    position: relative;
      background-color: black;
      color: white;
-     padding: 3%;
+     padding: 2.5%;
      text-align: center;
-
  }
 
- a{
+ a {
+    text-align: left;
+    font-size: 30px;
+    padding: 0%;
+    text-decoration: none; 
+ }
+
+ .header-links {
      color: white;
-     font-size: 20px;
-     padding: 9%;
-     text-decoration: none; 
+     font-size: 30px;
+     padding: 7%;
  }
 
  footer{
@@ -38,17 +61,20 @@ h1, p{
      padding: 3%;
  }
 
+ .about{
+     font-size: 30px;
+ }
 .copyright{
     text-align: left;
     font-size: 100%;
 }
 
 .contacts-title{
+    text-align: center;
     font-size: 200%;
 }
 
-.contacts{
-    text-align: left;
+.contacts {
     color: black;
-    font-size: 150%;
+    text-decoration: underline;
 }
